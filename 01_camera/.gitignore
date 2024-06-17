@@ -1,0 +1,54 @@
+# 忽略构建目录
+build/
+
+# 忽略生成的文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# 忽略IDE生成的文件
+.idea/
+*.swp
+*.swo
+
+# 忽略日志文件
+*.log
+
+# 忽略临时文件
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties.user
+
+# 忽略文档文件
+*.md
+*.txt
+*.docx
+*.pdf
+
+# 忽略配置文件
+*.ini
+*.cfg
+*.conf
+*.config
+
+# 忽略二进制文件
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.jar
+*.class
+*.war
+*.ear
+*.tar
+*.gz
+*.zip
+.vscode
+
